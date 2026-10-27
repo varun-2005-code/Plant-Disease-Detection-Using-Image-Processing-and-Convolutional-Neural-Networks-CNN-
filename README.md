@@ -1,45 +1,44 @@
-# 🌱 Plant Disease Detection Using Image Processing and Convolutional Neural Networks (CNN)
+# 🌱 Plant Disease Detection Using Image Processing and CNN
 
-## 📌 Project Description
-Plant Disease Detection is a deep learning-based project that aims to identify plant diseases from images of plant leaves. It uses image processing techniques and Convolutional Neural Networks (CNNs) to analyze leaf images, extract relevant visual patterns, and classify plants according to the disease categories learned during training.
-
-The project demonstrates how Artificial Intelligence (AI) and Deep Learning can support early plant disease identification, helping farmers and agricultural professionals make informed decisions about crop health and disease management.
+## 📌 About the Project
+Plant Disease Detection is a deep learning project that identifies plant diseases from leaf images using image processing techniques and Convolutional Neural Networks (CNNs). The model learns visual patterns from plant leaf images and classifies them into disease categories, helping support early disease detection and improved crop health management.
 
 ## 🎯 Objectives
 - Detect plant diseases from leaf images.
-- Apply image processing techniques for image preparation.
-- Build a CNN-based image classification model.
-- Explore AI applications in smart agriculture.
-- Support early disease identification to help reduce potential crop losses.
+- Apply image preprocessing techniques.
+- Build a CNN model for image classification.
+- Explore AI applications in agriculture.
+- Support early identification of plant diseases.
 
 ## 🛠️ Technologies Used
 - **Programming Language:** Python
 - **Deep Learning:** Convolutional Neural Networks (CNN)
 - **Image Processing:** Image preprocessing and normalization
-- **Libraries:** TensorFlow/Keras, NumPy, Matplotlib (as applicable)
+- **Libraries:** TensorFlow, Keras, NumPy, Matplotlib (as applicable)
 - **Platform:** Google Colab
 
-## ⚙️ Project Workflow
-1. Collect and load plant leaf images.
+## ⚙️ Methodology
+1. Load the plant leaf image dataset.
 2. Preprocess images for model training.
-3. Train a CNN model to learn disease-related visual features.
-4. Evaluate the model using suitable performance metrics.
-5. Predict the disease category for input leaf images.
+3. Train the CNN model on labeled images.
+4. Evaluate the model's classification performance.
+5. Predict disease categories from input leaf images.
 
 ## 🌾 Applications
-- Plant disease identification
+- Smart agriculture
 - Crop health monitoring
-- Smart and precision agriculture
+- Early plant disease identification
 - Agricultural research and decision support
 
-## 🚀 Future Enhancements
-- Support more plant species and disease categories.
-- Develop a user-friendly web or mobile application.
-- Explore real-time disease detection using camera images.
-- Integrate treatment recommendations based on predicted diseases.
+## 🚀 Future Scope
+- Add support for more plant species and diseases.
+- Develop a web or mobile application.
+- Enable real-time detection using camera images.
+- Provide disease-specific treatment suggestions.
 
-## 💻 Project Notebook
+## 📓 Project Notebook
 [Open the Google Colab Notebook](https://colab.research.google.com/drive/1DbCVuSF4Ep-kiCcyLKJQmw7jMBabqoRB#scrollTo=xh1z3A9FCeAb)
 
-## 📌 Conclusion
-This project explores the use of image processing and CNNs for automated plant disease classification. It provides a foundation for applying deep learning to agricultural challenges and developing intelligent tools for crop health management.
+## 👨‍💻 Conclusion
+This project demonstrates how deep learning and image processing can be applied to plant disease classification. It provides a foundation for developing AI-powered agricultural solutions that assist in crop health monitoring and early disease identification.
+
